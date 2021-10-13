@@ -1,0 +1,88 @@
+<!DOCTYPE  html>
+<html>
+<head>
+
+
+
+</head>
+
+
+<body>
+
+<a href= "https://en.m.wikipedia.org" >
+
+
+<img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Desktop_computer_clipart_-_Yellow_theme.svg/1200px-Desktop_computer_clipart_-_Yellow_theme.svg.png" width=200" height=200" >
+
+</a>
+
+
+
+<h1> <b>Davola Mitchner</b> </h1>
+
+
+<p> <b>IT Professional<b> </p>
+<p> <h2> <b> Arts and Music Fan <b> <h2></p>
+
+
+<a href= "https://www.documentarytube.com/articles/top-5-jazz-musicians-you-need-to-listen" >
+
+
+<img src= "https://d1nz104zbf64va.cloudfront.net/dt/a/o/top-5-jazz-musicians-you-need-to-listen.png" width=500" height=500" >
+
+</a>
+<p>Click on Play button...</p>
+      
+ <audio controls> 
+<source src=https://pixabay.com >        
+
+<source src="https://cdn.pixabay.com/download/audio/2021/04/14/audio_1e11aa12d9.mp3?filename=this-morning-3938.mp3" type="audio/mp3"> 
+         
+    </audio> 
+
+
+
+
+
+
+
+
+
+<p> <b>Enjoys Reading...<b> </p>
+ 
+<video width="300" height="240" controls>
+
+<source src=https://ak.picdn.net/shutterstock/videos/6293945/preview/stock-footage-book-animation-of-pages-turning-and-camera-moving-around.webm >
+
+
+<source src= "https://ak.picdn.net/shutterstock/videos/6293945/preview/stock-footage-book-animation-of-pages-turning-and-camera-moving-around.webm">
+
+</video>
+
+
+
+<p> <b>Grandmother...<b> </p>
+<video width="500" height="500" controls>
+<source src= "G MA.mp4">
+</video>
+
+
+<img src="gpic2.jpg" name="dmweb" alt="imagesdmweb" width="400" height="400">
+
+
+
+<p> I am Looking forward to learning  to build Websites in <b> MSIMBO. </b>  class</p>
+
+ 
+
+<p> Websites that inform and educate ... </p>
+<p> Websites that inspire ... </p>
+
+
+<img src="gpic.jpg" name="dmweb" alt="imagesdmweb" width="400" height="400"
+
+<p> Websites that many will visit! </p>
+
+</body>
+
+</html>
